@@ -1,0 +1,33 @@
+%shared-prop {
+    border: 1px solid #cccccc;
+    color: #333333;
+    padding: 10px;
+}
+
+%inheritance-eg {
+    border: 10px solid black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 5px;
+}
+
+
+
+.satu {
+    @extend %shared-prop;
+    background-color: chartreuse;
+    margin-left: 330px;
+}
+
+.dua {
+    @extend %inheritance-eg;
+    background-color: gold;
+    margin-left: 330px;
+}
+
+.tiga {
+    @extend %shared-prop;
+    background-color: red;
+    margin-left: 330px;
+}
