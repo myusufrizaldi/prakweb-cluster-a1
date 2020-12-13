@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+        <awal>Mohamad Yusuf</awal>
+        <akhir>Rizaldi</akhir>
+    </nama>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <desa>Hajimena</desa>
+        <kecamatan>Natar</kecamatan>
+        <kabupaten>Lampung Selatan</kabupaten>
+    </alamat>
+
+    <mediaSosial>
+        <facebook>Aldi</facebook>
+        <instagram>myusufrizaldi</instagram>
+    </mediaSosial>
+
+    <saudara>
+    </saudara>
+
+    <orangTua>
+        <bapak>
+            <nama>
+                <awal>Nama</awal>
+                <akhir>Samaran Bapak</akhir>
+            </nama>
+        </bapak>
+
+        <ibu>
+            <nama>
+                <awal>Nama</awal>
+                <akhir>Samaran Ibu</akhir>
+            </nama>
+        </ibu>
+    </orangTua>
+
+    <hobi>
+        <kegiatan>Nonton Anime</kegiatan>
+        <kegiatan>Main Game</kegiatan>
+        <kegiatan>Inventing</kegiatan>
+    </hobi>
+</dataDiri>

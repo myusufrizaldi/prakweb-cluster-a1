@@ -1,0 +1,42 @@
+{
+    "dataDiri": {
+        "nama": {
+            "awal": "Mohamad Yusuf",
+            "akhir": "Rizaldi"
+        },
+
+        "jenisKelamin": "Laki-laki",
+
+        "alamat": {
+            "desa": "Hajimena",
+            "kecamatan": "Natar",
+            "kabupaten": "Lampung Selatan"
+        },
+
+        "mediaSosial": {
+            "facebook": "Aldi",
+            "instagram": "myusufrizaldi"
+        },
+
+        "saudara": {},
+
+        "orangTua": {
+            "bapak": {
+                "nama": {
+                    "awal": "Nama",
+                    "akhir": "Samaran Bapak"
+                }
+            },
+            "ibu": {
+                "nama": {
+                    "awal": "Nama",
+                    "akhir": "Samaran Ibu"
+                }
+            }
+        },
+
+        "hobi": {
+            "kegiatan": ["Nonton Anime", "Main Game", "Inventing"]
+        }
+    }
+}
